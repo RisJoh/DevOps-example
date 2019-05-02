@@ -19,5 +19,5 @@ __Bold__
 
 ```javascript
 var world = "wold";
-console.log("hello "+word);`
+console.log("hello "+word);
 ```
